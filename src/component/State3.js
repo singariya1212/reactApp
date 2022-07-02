@@ -11,7 +11,7 @@ function State3() {
     return (
         <div>
 
-            <h1> this is keypad checker---- {Little}</h1>
+            <h1> this is keypad checker for keys---- {Little}</h1>
             <input type="text" value={Little} onChange={Kt}></input>
             <button>click </button>
 
